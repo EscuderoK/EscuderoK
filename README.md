@@ -16,6 +16,12 @@
 3. 📈 **Visualización de Datos** – Desarrollo de dashboards dinámicos en Power BI y Looker Studio para facilitar la toma de decisiones.
 4. ⚙️ **Automatización y APIs** – Construcción de soluciones backend con FastAPI.
 
+### 🧠 Proyectos destacados
+- 📌 **Ponente en XVII Simposio en Ciencias Exactas y Naturales**  
+  _Modelo de detección de fraude ante generación de reclamos por pedidos facturados pero no entregados._
+
+- 📌 **Ponente en XII Encuentro Nacional de Matemáticas y Estadística – Universidad del Tolima**  
+  _Modelo de identificación y segmentación de líderes en una empresa de venta directa._
 
 
 ### 🛠️ Tecnologías y herramientas
